@@ -2,7 +2,7 @@
 Spam Detection using CNN
 
 Step-by-step to run the code\
-\
+
 1. Launching Jupiter notebook type command -> \'93jupyter notebook\'94 The notebook interface will appear in a new browser or tab.\
 \
 2. Update or install Tensorflow type command -> \'93pip install \'97upgrade tensorfow\'94\
